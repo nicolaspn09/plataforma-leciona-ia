@@ -1,0 +1,10 @@
+groq==1.1.2
+langchain>=0.2.0
+langchain-community
+langchain-huggingface
+langchain-postgres
+sentence-transformers
+psycopg[binary]
+pypdf
+python-dotenv
+streamlit==1.47.0
